@@ -11,3 +11,5 @@
     + Issued TO: who ownes the certificate
     + Issued by: who issued the certificate
     + Validity Period: time frame within which certificate is valid
+
+> https://hackernoon.com/how-does-rsa-work-f44918df914b
