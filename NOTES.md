@@ -13,3 +13,6 @@
     + Validity Period: time frame within which certificate is valid
 
 > https://hackernoon.com/how-does-rsa-work-f44918df914b
+
+> lsof -i @localhost
+> nmap -A -p T:5600-5700 localhost
