@@ -16,3 +16,4 @@
 
 > lsof -i @localhost
 > nmap -A -p T:5600-5700 localhost
+> uv pip install cryptography
